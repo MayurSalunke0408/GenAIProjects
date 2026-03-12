@@ -46,7 +46,7 @@ User Query → Streamlit UI → OpenAI API → LLM Model → Response
 
 This section shows the project structure, environment variables, and dependencies setup.
 
-<img src="assets/code1.jpg" width="700">
+<img src="1.jpg" width="700">
 
 ---
 
